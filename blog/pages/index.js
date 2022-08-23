@@ -8,7 +8,7 @@ export default function Blog() {
       <ul>
         <li>
           <Link href="/post/1">
-            <a>Post 1</a>
+            <a>Post 1 - NOT HOSTED</a>
           </Link>
         </li>
         <li>
