@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
 const About = () => (
   <div>
@@ -10,6 +10,6 @@ const About = () => (
     </div>
     <img width={200} src="/static/vercel.png" />
   </div>
-)
+);
 
-export default About
+export default About;
